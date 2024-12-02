@@ -1,4 +1,5 @@
 streamlit
-tensorflow==2.12.0  # Or the latest compatible version
+tensorflow
 matplotlib
 numpy
+pip>=24.3.1
